@@ -14,11 +14,6 @@ noscript div {
     font-weight: bold;
 }
 
-noscript img {
-    width: 40px;
-    height: 40px;
-}
-
 noscript h3, noscript span {
     font-size: 1rem;
     font-family: "Poppins", sans-serif;
@@ -28,14 +23,4 @@ noscript h3, noscript span {
 
 noscript span {
     font-weight: 500;
-}
-
-noscript a {
-    color: #1f4954;
-    position: absolute;
-    bottom: 20px;
-    left: 0;
-    text-decoration: none;
-    width: 100%;
-    text-align: center;
 }
