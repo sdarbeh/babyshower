@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/https://https://sdarbeh.github.io/babyshower/static/css/main.37906b09.chunk.css",
-    "main.js": "/https://https://sdarbeh.github.io/babyshower/static/js/main.8b34906f.chunk.js",
-    "main.js.map": "/https://https://sdarbeh.github.io/babyshower/static/js/main.8b34906f.chunk.js.map",
-    "runtime-main.js": "/https://https://sdarbeh.github.io/babyshower/static/js/runtime-main.6cce4824.js",
-    "runtime-main.js.map": "/https://https://sdarbeh.github.io/babyshower/static/js/runtime-main.6cce4824.js.map",
-    "static/js/2.c4e571c8.chunk.js": "/https://https://sdarbeh.github.io/babyshower/static/js/2.c4e571c8.chunk.js",
-    "static/js/2.c4e571c8.chunk.js.map": "/https://https://sdarbeh.github.io/babyshower/static/js/2.c4e571c8.chunk.js.map",
-    "index.html": "/https://https://sdarbeh.github.io/babyshower/index.html",
-    "precache-manifest.a50b9b958b6cf37fb115e07bea1f4762.js": "/https://https://sdarbeh.github.io/babyshower/precache-manifest.a50b9b958b6cf37fb115e07bea1f4762.js",
-    "service-worker.js": "/https://https://sdarbeh.github.io/babyshower/service-worker.js",
-    "static/css/main.37906b09.chunk.css.map": "/https://https://sdarbeh.github.io/babyshower/static/css/main.37906b09.chunk.css.map",
-    "static/js/2.c4e571c8.chunk.js.LICENSE.txt": "/https://https://sdarbeh.github.io/babyshower/static/js/2.c4e571c8.chunk.js.LICENSE.txt"
+    "main.css": "//sdarbeh.github.io/babyshower/static/css/main.37906b09.chunk.css",
+    "main.js": "//sdarbeh.github.io/babyshower/static/js/main.4eaf73d1.chunk.js",
+    "main.js.map": "//sdarbeh.github.io/babyshower/static/js/main.4eaf73d1.chunk.js.map",
+    "runtime-main.js": "//sdarbeh.github.io/babyshower/static/js/runtime-main.ec825ff1.js",
+    "runtime-main.js.map": "//sdarbeh.github.io/babyshower/static/js/runtime-main.ec825ff1.js.map",
+    "static/js/2.ee22c619.chunk.js": "//sdarbeh.github.io/babyshower/static/js/2.ee22c619.chunk.js",
+    "static/js/2.ee22c619.chunk.js.map": "//sdarbeh.github.io/babyshower/static/js/2.ee22c619.chunk.js.map",
+    "index.html": "//sdarbeh.github.io/babyshower/index.html",
+    "precache-manifest.aa9e88cd285ad4932f9d4aca0e99513a.js": "//sdarbeh.github.io/babyshower/precache-manifest.aa9e88cd285ad4932f9d4aca0e99513a.js",
+    "service-worker.js": "//sdarbeh.github.io/babyshower/service-worker.js",
+    "static/css/main.37906b09.chunk.css.map": "//sdarbeh.github.io/babyshower/static/css/main.37906b09.chunk.css.map",
+    "static/js/2.ee22c619.chunk.js.LICENSE.txt": "//sdarbeh.github.io/babyshower/static/js/2.ee22c619.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cce4824.js",
-    "static/js/2.c4e571c8.chunk.js",
+    "static/js/runtime-main.ec825ff1.js",
+    "static/js/2.ee22c619.chunk.js",
     "static/css/main.37906b09.chunk.css",
-    "static/js/main.8b34906f.chunk.js"
+    "static/js/main.4eaf73d1.chunk.js"
   ]
 }
