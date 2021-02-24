@@ -61,7 +61,7 @@ export default () => {
           <Ellipsis />
         </CenteredDiv>
       )}
-      {!loading && rsvps.length && (
+      {!loading && rsvps.length !== 0 && (
         <InfiniteScroll
           length={rsvps.length}
           onNext={handleFetch}
@@ -89,7 +89,7 @@ export default () => {
           ))}
         />
       )}
-      {!loading && !rsvps.length && (
+      {!loading && rsvps.length === 0 && (
         <CenteredDiv className="empty-rsvps">
           <p>No RSVPS yet :(</p>
           <Link to={appRoutes.rsvp.register}>
