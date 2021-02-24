@@ -52,7 +52,7 @@ export default () => {
     <Container>
       <div className="list-title">
         <p>All of our Family and Friends who confirmed to celebrate this special occasion with us!</p>
-        {!loading && rsvps.length && (
+        {!loading && rsvps.length !== 0 && (
           <p>So far, <span>{families}</span> parties are attending.</p>
         )}
       </div>
