@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/babyshower/precache-manifest.d783ada5e90056c09a09503dbdb145bb.js"
+  "/babyshower/precache-manifest.0fdb83226896aa795e8c50d121e739c6.js"
 );
 
 self.addEventListener('message', (event) => {

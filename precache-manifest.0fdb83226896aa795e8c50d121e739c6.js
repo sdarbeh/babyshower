@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d637de7fac90107b212a6b66a5668125",
+    "revision": "40e1b603b2dd208a611a5efc45e9cfb7",
     "url": "/babyshower/index.html"
   },
   {
-    "revision": "6cf568a3ad29981ec2a9",
+    "revision": "46769432fa5b45da41c8",
     "url": "/babyshower/static/css/main.37906b09.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/babyshower/static/js/2.cc0cfcfb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6cf568a3ad29981ec2a9",
-    "url": "/babyshower/static/js/main.e1aff8f7.chunk.js"
+    "revision": "46769432fa5b45da41c8",
+    "url": "/babyshower/static/js/main.c60aae3d.chunk.js"
   },
   {
     "revision": "d2bf40dca92c35dc1945",
