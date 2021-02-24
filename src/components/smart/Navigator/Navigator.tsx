@@ -32,8 +32,10 @@ interface p {
 }
 
 export default ({whiteText, customPaths}: p) => {
-  const { pathname } = window.location
+  const { hash } = window.location
   const [paths, setPaths] = useState<any>([])
+
+  let pathname = hash.replace('#', '')
 
   useEffect(() => {
     let arr: any = []
