@@ -26,8 +26,6 @@ export default ({ children }) => {
     ...rest
   }
 
-  console.log(appTheme);
-
   return (
     <StyledThemeProvider theme={appTheme}>
       <>
