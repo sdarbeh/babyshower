@@ -1,6 +1,6 @@
 export const bearImg = '/babyshower/assets/media/other/bear.jpeg'
 export const giftsImg = '/babyshower/assets/media/other/gifts.jpeg'
-export const cnsImg = (num: 1|2|3|4|number) => `/assets/media/cns/cns${num}.jpg`
+export const cnsImg = (num: 1|2|3|4|number) => `/babyshower/assets/media/cns/cns${num}.jpg`
 
 export const amazonImg = '/babyshower/assets/media/registry/amazon-logo.png'
 export const targetImg = '/babyshower/assets/media/registry/target-logo.png'

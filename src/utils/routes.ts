@@ -1,10 +1,10 @@
 // app routing
 export const appRoutes = {
-  home: '/babyshower',
+  home: '/',
   rsvp: {
-    main: '/babyshower/rsvp',
-    register: '/babyshower/rsvp/register',
-    list: '/babyshower/rsvp/the-list'
+    main: '/rsvp',
+    register: '/rsvp/register',
+    list: '/rsvp/the-list'
   },
-  registry: '/babyshower/registry',
+  registry: '/registry',
 };
