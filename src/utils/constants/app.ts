@@ -10,7 +10,7 @@ export const shower_end = "20210313T200000";
 
 export const shower_time_until = timeAgo(shower_date);
 export const shower_full_date = getDate(shower_date);
-export const shower_location = "1206 W Sherwood Lane, Broken Arrow, OK 74011";
+export const shower_location = "5129 S Troost Ave, Tulsa, OK 74105";
 export const shower_location_link = `https://www.google.com/maps/search/?api=1&query=${shower_location}`;
 
 const title = "Caroline%20and%20Sam's%20Baby%20Shower";
