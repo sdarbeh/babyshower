@@ -74,15 +74,17 @@ export default () => {
                 <CenteredDiv>
                   {familyIcon(r.people ? r.people.length + 1 : 1)}
                 </CenteredDiv>
-                <p>The {r.houshold}</p>
+                <p>{r.people.length > 0 ? `The ${r.houshold}` : r.head}</p>
               </div>
               <div className="rsvp-card-content">
-                <ul>
-                  {r.people?.map((p: string, i: number) => (
-                    <li key={i}>{p},&nbsp;</li>
-                  ))}
-                  <li>{r.head}</li>
-                </ul>
+                {r.people.length > 0 && (
+                  <ul>
+                    {r.people?.map((p: string, i: number) => (
+                      <li key={i}>{p},&nbsp;</li>
+                    ))}
+                    <li>{r.head}</li>
+                  </ul>
+                )}
               </div>
               <span>{`Confirmed ${timeAgo(r.created_at)}`}</span>
             </Card>
