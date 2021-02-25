@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/babyshower/static/css/main.37906b09.chunk.css",
-    "main.js": "/babyshower/static/js/main.b2a52e96.chunk.js",
-    "main.js.map": "/babyshower/static/js/main.b2a52e96.chunk.js.map",
+    "main.js": "/babyshower/static/js/main.a8438062.chunk.js",
+    "main.js.map": "/babyshower/static/js/main.a8438062.chunk.js.map",
     "runtime-main.js": "/babyshower/static/js/runtime-main.51ade915.js",
     "runtime-main.js.map": "/babyshower/static/js/runtime-main.51ade915.js.map",
     "static/js/2.cc0cfcfb.chunk.js": "/babyshower/static/js/2.cc0cfcfb.chunk.js",
     "static/js/2.cc0cfcfb.chunk.js.map": "/babyshower/static/js/2.cc0cfcfb.chunk.js.map",
     "index.html": "/babyshower/index.html",
-    "precache-manifest.e9cd9239d23ff530722c1b4eb7343090.js": "/babyshower/precache-manifest.e9cd9239d23ff530722c1b4eb7343090.js",
+    "precache-manifest.3e8a4a524edb61f3334f3799bb42f448.js": "/babyshower/precache-manifest.3e8a4a524edb61f3334f3799bb42f448.js",
     "service-worker.js": "/babyshower/service-worker.js",
     "static/css/main.37906b09.chunk.css.map": "/babyshower/static/css/main.37906b09.chunk.css.map",
     "static/js/2.cc0cfcfb.chunk.js.LICENSE.txt": "/babyshower/static/js/2.cc0cfcfb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.51ade915.js",
     "static/js/2.cc0cfcfb.chunk.js",
     "static/css/main.37906b09.chunk.css",
-    "static/js/main.b2a52e96.chunk.js"
+    "static/js/main.a8438062.chunk.js"
   ]
 }
